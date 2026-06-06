@@ -103,20 +103,17 @@ print(me.motto())
 
 📈 Contribution Graph
 
-
 <div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnu2006034&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishnu2006034&theme=tokyonight&utcOffset=5.5)
 &nbsp;
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnu2006034&theme=tokyonight)
 
-<img src="https://ghchart.rshah.org/26a641/vishnu2006034" style="width:100%;"/>
-
 </div>
 
 ---
-
-</div>
 🏆 Trophy Wall
 
 <br/>
@@ -125,10 +122,10 @@ print(me.motto())
 |:---:|:---:|:---:|:---:|:---:|
 | ![](https://img.shields.io/badge/Hackathon-Builder-70a5fd?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Dual-Intern-bf91f3?style=for-the-badge&logo=briefcase&logoColor=white) | ![](https://img.shields.io/badge/GPA-8.04%2F10-38bdae?style=for-the-badge&logo=academia&logoColor=white) | ![](https://img.shields.io/badge/Flask-Developer-ff6b6b?style=for-the-badge&logo=flask&logoColor=white) | ![](https://img.shields.io/badge/Open-Source-f7df1e?style=for-the-badge&logo=git&logoColor=black) |
 
-</div>
+
 ---
 
-## 💼 Work Experience
+ 💼 Work Experience
 
 <details>
 <summary><b>🏢 Cipherbite Technologies — Web Developer Intern &nbsp;|&nbsp; May 2025 – June 2025 &nbsp;|&nbsp; Chennai, India</b></summary>
