@@ -111,8 +111,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=vishnu2006034&theme=tokyonight&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=8&margin-h=8)
+![](https://github-profile-trophy.vercel.app/?username=vishnu2006034&theme=tokyonight&no-frame=true&no-bg=true)
 
 <br/>
 
