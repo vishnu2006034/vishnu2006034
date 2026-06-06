@@ -101,17 +101,23 @@ print(me.motto())
 
 ---
 
-## 📈 Activity Graph
+📈 Contribution Graph
+
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=vishnu2006034&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishnu2006034&theme=tokyonight&utcOffset=5.5)
+&nbsp;
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnu2006034&theme=tokyonight)
+
+<img src="https://ghchart.rshah.org/26a641/vishnu2006034" style="width:100%;"/>
 
 </div>
-## 🏆 Trophy Wall
 
-<div align="center">
-![](https://github-profile-trophy.vercel.app/?username=vishnu2006034&theme=tokyonight&no-frame=true&no-bg=true)
+---
+
+</div>
+🏆 Trophy Wall
 
 <br/>
 
