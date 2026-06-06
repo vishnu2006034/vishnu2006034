@@ -114,6 +114,12 @@ print(me.motto())
 
 ![](https://github-profile-trophy.vercel.app/?username=vishnu2006034&theme=tokyonight&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=8&margin-h=8)
 
+<br/>
+
+| 🥇 | 🎯 | 💡 | 🚀 | 🌟 |
+|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Hackathon-Builder-70a5fd?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Dual-Intern-bf91f3?style=for-the-badge&logo=briefcase&logoColor=white) | ![](https://img.shields.io/badge/GPA-8.04%2F10-38bdae?style=for-the-badge&logo=academia&logoColor=white) | ![](https://img.shields.io/badge/Flask-Developer-ff6b6b?style=for-the-badge&logo=flask&logoColor=white) | ![](https://img.shields.io/badge/Open-Source-f7df1e?style=for-the-badge&logo=git&logoColor=black) |
+
 </div>
 ---
 
