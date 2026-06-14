@@ -162,7 +162,7 @@ print(me.motto())
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
 | 🏥 [**Hospital Management**](https://github.com/vishnu2006034/healthcare) | Python · Flask · SQLAlchemy · HTML · CSS | Full-stack app managing patient admissions, discharges & hospital workflows with efficient backend data tracking |
-| 📊 [**YouTube Comments Analyzer**](https://github.com/vishnu2006034/YouTube-comments-analysis) | Python · Flask · Gemini API · LLM | Built at SVCE Hackathon — analyzes timestamped comments, performs sentiment analysis, and generates smart content recommendations |
+| 📊 [**YouTube Comments Analyzer**](https://github.com/vishnu2006034/YouTube-comments-analysis-) | Python · Flask · Gemini API · LLM | Built at SVCE Hackathon — analyzes timestamped comments, performs sentiment analysis, and generates smart content recommendations |
 | 👥 [**Employee Management System**](https://github.com/vishnu2006034/employee-management) | Python · Flask · SQLAlchemy · HTML · CSS | Collaborative Flask app for managing employee records, shift scheduling, and attendance tracking |
 
 </div>
